@@ -1,4 +1,5 @@
 research
 ========
 
-Miscellaneous Reserach Projects
+Miscellaneous Reserach Projects by Sanjay Khattar
+
